@@ -30,7 +30,9 @@ You can either passively listen or actively join in a hands-on session with your
 
 I will teach you the relevant genomics - no biology background is needed :)
 
-Feel free to follow along using the tutorials a friend and I wrote here:
+Feel free to follow along using the jupyter notebook tutorial located in [my repository here](https://github.com/mundyreimer/hsvAI_genomics).
+
+Alternatively, feel free to follow along using the tutorials a friend and I wrote here:
 
 [Part 1 - Genomic Data Science Series: Analyzing Microbiome Data](https://towardsdatascience.com/analyzing-microbiome-data-320728b56b8e) 
 
